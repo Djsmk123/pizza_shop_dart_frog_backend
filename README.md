@@ -25,7 +25,7 @@ dart_frog dev
 ## Read complete tutorial :
 
 - [part 1](https://dev.to/djsmk123/build-full-stack-application-using-flutter-ft-dart-frog-and-mongodb-part-1-1e2k)
-- [part-2](https://dev.to/djsmk123/build-full-stack-application-using-flutter-ft-dart-frog-and-mongodb-part-1-1e2k)
+- [part-2](https://dev.to/djsmk123/build-full-stack-application-using-flutter-ft-dart-frog-and-mongodb-part-2-m1a)
 - [Flutter-web-application](https://github.com/Djsmk123/pizza_shop_flutter_web_app)
 
 

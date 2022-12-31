@@ -1,0 +1,10 @@
+[
+   {
+    "id": 1,
+    "user_id": "1",
+    "pizza_id": "6",
+    "address": "1234 Main St",
+    "phone_number": "1234567890",
+    "status": "pending"
+  }
+]
